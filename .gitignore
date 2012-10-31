@@ -1,3 +1,6 @@
 libreconverter/.classpath
 libreconverter/.project
 libreconverter/target
+.classpath
+.project
+target
